@@ -1,0 +1,199 @@
+/* Estilos Para el curriculum*/
+#cu{
+    background-color: darkgray;
+}
+#foto {
+background-color:darkgoldenrod;
+}
+#Presentacion{
+    background-color:blanchedalmond;
+}
+#PanelInicio{
+    background-color: darkgoldenrod;
+}
+.Titulos{
+    background-color:burlywood;
+    color: black;
+}
+.Inicio{
+    background-color:aliceblue;
+}
+.PanelMedio{
+    background-color:darkgoldenrod
+}
+.PanelFinal{
+    background-color: darkgoldenrod;
+}
+b,sub {
+    background-color: cornsilk;
+    color: black;
+}
+.Curriculum{
+    background-color: crimson;
+}
+h2,forma{
+    background-color: crimson;
+}
+p{
+    color: aliceblue;
+}
+#laboral{
+    background-color: brown;
+    color: cornsilk;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.cont{
+    background-color: maroon;
+    color: cornsilk;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+.k{
+    background-color: mintcream;
+}
+/*Estilos para el catalogo*/
+#cata{
+    background-color:midnightblue;
+}
+h1{
+    color: mintcream;
+}
+#Nave{
+    color: mintcream;
+}
+.logoscata{
+    color: mintcream;
+    background-color: black;
+    width: 50%;
+    text-align: center;
+}
+#Mouse{
+    background-color: mediumslateblue;
+    width: 50%;
+    color: aliceblue;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+#Silla{
+    background-color: mediumblue;
+    width: 50%;
+    color: aliceblue;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+#PC{
+    background-color: mediumslateblue;
+    width:50%;
+    color: aliceblue;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+#Audifonos{
+    background-color: mediumblue;
+    width: 50%;
+    color: aliceblue;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.Final{
+    background-color: mintcream;
+    width: 50%;
+}
+.año{
+    background-color:mediumpurple;
+    width: 50%;
+}
+#los{
+    color: black;
+}
+/*estilos para el tutorial*/
+#inicio{
+    background-color: brown;
+    color: aliceblue;
+}
+#tuto{
+    background-color: burlywood;
+}
+#contenido{
+    background-color:cornsilk;
+    color: brown;
+}
+#infor{
+    color: cornsilk;
+}
+#Cómohacerunbuendibujopasoapaso{
+    background-color: brown;
+    color: aliceblue;
+}
+#imagenes{
+    background-color: brown;
+    color: aliceblue;
+}
+#Sabescómodiseñarunnuevoproducto{
+    background-color: brown;
+    color: aliceblue;
+}
+#imagenesprototipo{
+    background-color: brown;
+    color: aliceblue;
+}
+#Cómohacerunavióndepapelpasoapaso{
+    background-color: brown;
+    color: aliceblue;
+}
+#Quéesunesquemaycómoseelabora{
+    background-color: brown;
+    color: aliceblue;
+}
+#imagenesesquemas{
+    background-color: brown;
+    color: aliceblue;
+}
+#formula1{
+    background-color: brown;
+    color: aliceblue;
+}
+#imagenesformula1{
+    background-color: brown;
+    color: aliceblue;
+}
+#Salir{
+    background-color: brown;
+    color: aliceblue;
+}
+#imagenesavion{
+    background-color: brown;
+    color: aliceblue;
+}
+/*estilos Principal*/
+#princi{
+    background-color: brown;
+    color: aliceblue;
+}
+#fondoNAV{
+    background-color: aliceblue;
+}
+.cambioLetra{
+    font-size: 25px;
+    text-align: center;
+    /*Busque el tipo de letra capital pero no lo consegui*/
+    font-family:monospace; 
+}
+li{
+    font-size: 15px;
+    text-align:left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+/*estilos para el registro*/
+.col{
+   background-color:brown;
+   color: cornsilk;
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Registro</title>
+        <link rel="stylesheet" href="CSS/estilos.css">
+    </head>
+    <body>
+        <header id="Registrar">
+           <h1 id="reg">
+              <b>Registro de Cliente</b> 
+          </h1>
+       </header>
+        </table>
+        <h2 id="cha">Formulario de registro</h2>
+        <form name="registro" method="post">
+            <table border="0" width="500px" id="tabla1">
+                <tr>
+                    <td>
+                        Nombre
+                    </td>
+                    <td>
+                        <input type="text" required maxlength="25" size="25"
+                                name="nombre" placeholder="Nombre completo" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Correo
+                    </td>
+                    <td>
+                        <input type="text" required name="correo" size="25"
+                            placeholder="Correo Electrónico" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        País donde vive
+                    </td>
+                    <td>
+                        <input type="text" required name="pais" size="25"
+                            placeholder="Ingrese el país donde vive" />
+                    </td>
+                </tr>
+            <tr>
+                <td>
+                    Estado Civil
+                </td>
+                <td>
+                    <input type="radio" name="soltero" value="radio1"/>Soltero
+                    <input type="radio" name="casado" value="radio2"/>Casado
+                    <input type="radio" name="divorciado" value="radio3"/>Divorciado
+                    
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Sexo
+                </td>
+                <td>
+                    <input type="radio" name="hombre" value="radio4"/>Hombre
+                    <input type="radio" name="mujer" value="radio5"/>Mujer
+                </td>
+            </tr>
+                <tr>
+                    <td>
+                        Intereses
+                    </td>
+                </tr>
+                <tr>
+                    <td >
+                        <input type="checkbox" name="deporte" value="1_checkbox"/>Deporte 
+                        <input type="checkbox" name="tecnologia"value="2_checkbox" />Tecnología
+                        <input type="checkbox" name="politica" value="3_checkbox" />Política
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" name="historia"value="4_checkbox" />Historia
+                        <input type="checkbox" name="viajar"value="5_checkbox" />Viajar
+                        <input type="checkbox" name="comida"value="6_checkbox" />Comida
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" required name="intereses" size="30"
+                            placeholder="Puede escribir algun otro interes" />
+                    </td>
+                </tr>
+                <td>
+                    Contraseña 
+                </td>
+                <td>
+                    <input type="password" required maxlength="25" name="contraseña" size="30"
+                        placeholder="Ingrese contraseña para iniciar sesíon" />
+                </td>
+            </tr>
+                <tr>
+                    <td colspan="2" align="center" style="height: 50px;">
+                        <input type="submit" name="registrar" value="Registrar" class="col"/>
+                        <input type="reset" name="resetear" value="Comenzar de nuevo" class="col"/>
+                    </td>
+                </tr>       
+            </table>
+        </form>
+    
+    </body>
+</html>
